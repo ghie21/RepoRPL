@@ -8,6 +8,7 @@
 
 		echo "<center>10112250 - Egi Cahyo P</center>";
 		echo "<center>10112240 - Mochamad Irfan Mardani</center>";
+		echo "<center>10112278 - M. Faris Farhan</center>";
 	
 ?>
 
